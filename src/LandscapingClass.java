@@ -18,6 +18,7 @@ public class LandscapingClass {
     private String landscapeType;
     private double yardLength;
     private double yardCost;
+    private String Test;
 
     public LandscapingClass() {
         this.idNum = 0;
